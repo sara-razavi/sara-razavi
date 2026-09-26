@@ -24,3 +24,16 @@ Computer Science graduate from SRBIAU | Interested in AI, Data Science, Software
 **Infrastructure:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+——————
+
+## University Coursework Archive ##
+
+| Project | Link |
+|---|---|
+| Quiz Game | [repo](https://github.com/sara-razavi/quiz-game) |
+| Tic-Tac-Toe | [repo](https://github.com/sara-razavi/tic-tac-toe) |
+| To-Do List | [repo](https://github.com/sara-razavi/todo-list) |
+| Password Manager | [repo](https://github.com/sara-razavi/password-manager) |
+| Banking GUI | [repo](https://github.com/sara-razavi/banking-gui) |
+| Detective GUI | [repo](https://github.com/sara-razavi/detective-gui) |
