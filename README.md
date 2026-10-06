@@ -27,6 +27,14 @@ Computer Science graduate from SRBIAU | Interested in AI, Data Science, Software
 
 ——————
 
+## Projects ##
+
+| Project | Link |
+|---|---|
+| Personal Portfolio | [repo](https://github.com/sara-razavi/personal-portfolio) |
+
+——————
+
 ## University Coursework Archive ##
 
 | Project | Link |
@@ -37,11 +45,3 @@ Computer Science graduate from SRBIAU | Interested in AI, Data Science, Software
 | Password Manager | [repo](https://github.com/sara-razavi/password-manager) |
 | Banking GUI | [repo](https://github.com/sara-razavi/banking-gui) |
 | Detective GUI | [repo](https://github.com/sara-razavi/detective-gui) |
-
-——————
-
-## Projects ##
-
-| Project | Link |
-|---|---|
-| Personal Portfolio | [repo](https://github.com/sara-razavi/personal-portfolio) |
