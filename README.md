@@ -35,6 +35,15 @@ Computer Science graduate from SRBIAU | Interested in AI, Data Science, Software
 
 ——————
 
+## Projects In Progress ##
+
+| Project | Link |
+|---|---|
+| Handwriting Recognition | [repo](https://github.com/sara-razavi/handwriting-recognition) |
+| Terminal Dungeon Game | [repo](https://github.com/sara-razavi/terminal-dungeon-game) |
+
+——————
+
 ## University Coursework Archive ##
 
 | Project | Link |
