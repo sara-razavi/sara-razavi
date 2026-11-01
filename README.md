@@ -31,6 +31,7 @@ Computer Science graduate from SRBIAU | Interested in AI, Data Science, Software
 |---|---|
 | Personal Portfolio | [repo](https://github.com/sara-razavi/personal-portfolio) |
 | Handwriting Recognition | [repo](https://github.com/sara-razavi/handwriting-recognition) |
+| Student Performance Analyzer | [repo](https://github.com/sara-razavi/student-performance-analyzer) |
 
 
 ## Projects In Progress ##
