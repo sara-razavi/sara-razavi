@@ -2,7 +2,6 @@
 
 Computer Science graduate from SRBIAU | Interested in AI, Data Science, Software Development, Full-Stack Development, Machine Learning & Embedded Systems | Building projects and continuously expanding my technical skills
 
-——————
 
 ## Tech ##
 
@@ -25,7 +24,6 @@ Computer Science graduate from SRBIAU | Interested in AI, Data Science, Software
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-——————
 
 ## Projects ##
 
@@ -34,7 +32,6 @@ Computer Science graduate from SRBIAU | Interested in AI, Data Science, Software
 | Personal Portfolio | [repo](https://github.com/sara-razavi/personal-portfolio) |
 | Handwriting Recognition | [repo](https://github.com/sara-razavi/handwriting-recognition) |
 
-——————
 
 ## Projects In Progress ##
 
@@ -42,7 +39,6 @@ Computer Science graduate from SRBIAU | Interested in AI, Data Science, Software
 |---|---|
 | Terminal Dungeon Game | [repo](https://github.com/sara-razavi/terminal-dungeon-game) |
 
-——————
 
 ## University Coursework Archive ##
 
