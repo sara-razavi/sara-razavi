@@ -39,6 +39,7 @@ Computer Science graduate from SRBIAU | Interested in AI, Data Science, Software
 | Project | Link |
 |---|---|
 | Terminal Dungeon Game | [repo](https://github.com/sara-razavi/terminal-dungeon-game) |
+| Plant Care Guide | [repo](https://github.com/sara-razavi/plant-care-guide) |
 
 
 ## University Coursework Archive ##
