@@ -27,28 +27,28 @@ Computer Science graduate from SRBIAU | Interested in AI, Data Science, Software
 
 ## Projects ##
 
-| Project | Link |
-|---|---|
-| Personal Portfolio | [repo](https://github.com/sara-razavi/personal-portfolio) |
-| Handwriting Recognition | [repo](https://github.com/sara-razavi/handwriting-recognition) |
-| Student Performance Analyzer | [repo](https://github.com/sara-razavi/student-performance-analyzer) |
+| Project | Languages | Description |
+|---|---|---|
+| [Personal Portfolio](https://github.com/sara-razavi/personal-portfolio) | HTML, CSS | My personal website with about, projects and contact pages |
+| [Handwriting Recognition](https://github.com/sara-razavi/handwriting-recognition) | Python | Recognizes handwritten digits with a KNN model (scikit-learn) |
+| [Student Performance Analyzer](https://github.com/sara-razavi/student-performance-analyzer) | Python | Cleans and analyzes student grades with pandas and NumPy |
 
 
 ## Projects In Progress ##
 
-| Project | Link |
-|---|---|
-| Terminal Dungeon Game | [repo](https://github.com/sara-razavi/terminal-dungeon-game) |
-| Plant Care Guide | [repo](https://github.com/sara-razavi/plant-care-guide) |
+| Project | Languages | Description |
+|---|---|---|
+| [Terminal Dungeon Game](https://github.com/sara-razavi/terminal-dungeon-game) | Python | Text adventure game where you move between rooms of a dungeon |
+| [Plant Care Guide](https://github.com/sara-razavi/plant-care-guide) | HTML, CSS, JavaScript, SQL | Website that shows how to take care of common house plants |
 
 
 ## University Coursework Archive ##
 
-| Project | Link |
-|---|---|
-| Quiz Game | [repo](https://github.com/sara-razavi/quiz-game) |
-| Tic-Tac-Toe | [repo](https://github.com/sara-razavi/tic-tac-toe) |
-| To-Do List | [repo](https://github.com/sara-razavi/todo-list) |
-| Password Manager | [repo](https://github.com/sara-razavi/password-manager) |
-| Banking GUI | [repo](https://github.com/sara-razavi/banking-gui) |
-| Detective GUI | [repo](https://github.com/sara-razavi/detective-gui) |
+| Project | Languages | Description |
+|---|---|---|
+| [Quiz Game](https://github.com/sara-razavi/quiz-game) | Python | Multiple-choice quiz in the terminal that keeps your score |
+| [Tic-Tac-Toe](https://github.com/sara-razavi/tic-tac-toe) | Python | Two player tic-tac-toe in the terminal |
+| [To-Do List](https://github.com/sara-razavi/todo-list) | Python | Add and remove tasks, saved in a text file |
+| [Password Manager](https://github.com/sara-razavi/password-manager) | Python | Saves accounts and generates random passwords |
+| [Banking GUI](https://github.com/sara-razavi/banking-gui) | Python | Simple banking app with a Tkinter GUI |
+| [Detective GUI](https://github.com/sara-razavi/detective-gui) | Python | Small detective story game with a Tkinter GUI |
