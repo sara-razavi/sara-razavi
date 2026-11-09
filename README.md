@@ -1,6 +1,6 @@
 ## Hi, I’m Sara 👩🏻‍💻
 
-Computer Science graduate from SRBIAU | Interested in AI, Data Science, Software Development, Full-Stack Development, Machine Learning & Embedded Systems | Building projects and continuously expanding my technical skills
+Computer Science graduate from SRBIAU | Interested in AI, Data Science, Software Development, Full-Stack Development, Machine Learning | Building projects and continuously expanding my technical skills
 
 
 ## Tech ##
@@ -39,7 +39,7 @@ Computer Science graduate from SRBIAU | Interested in AI, Data Science, Software
 | Project | Languages | Description |
 |---|---|---|
 | [Terminal Dungeon Game](https://github.com/sara-razavi/terminal-dungeon-game) | Python | Text adventure game where you move between rooms of a dungeon |
-| [Plant Care Guide](https://github.com/sara-razavi/plant-care-guide) | HTML, CSS, JavaScript, SQL | Website that shows how to take care of common house plants |
+| [Plant Care Guide](https://github.com/sara-razavi/plant-care-guide) | Python (Flask), HTML, CSS, JavaScript, SQL | Website that shows how to take care of common house plants |
 
 
 ## University Coursework Archive ##
