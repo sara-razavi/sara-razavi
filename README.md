@@ -32,6 +32,7 @@ Computer Science graduate from SRBIAU | Interested in AI, Data Science, Software
 | [Personal Portfolio](https://github.com/sara-razavi/personal-portfolio) | HTML, CSS | My personal website with about, projects and contact pages |
 | [Handwriting Recognition](https://github.com/sara-razavi/handwriting-recognition) | Python | Recognizes handwritten digits with a KNN model (scikit-learn) |
 | [Student Performance Analyzer](https://github.com/sara-razavi/student-performance-analyzer) | Python | Cleans and analyzes student grades with pandas and NumPy |
+| [Plant Care Guide](https://github.com/sara-razavi/plant-care-guide) | Python (Flask), HTML, CSS, JavaScript, SQL | Website that shows how to take care of common house plants |
 
 
 ## Projects In Progress ##
@@ -39,7 +40,6 @@ Computer Science graduate from SRBIAU | Interested in AI, Data Science, Software
 | Project | Languages | Description |
 |---|---|---|
 | [Terminal Dungeon Game](https://github.com/sara-razavi/terminal-dungeon-game) | Python | Text adventure game where you move between rooms of a dungeon |
-| [Plant Care Guide](https://github.com/sara-razavi/plant-care-guide) | Python (Flask), HTML, CSS, JavaScript, SQL | Website that shows how to take care of common house plants |
 
 
 ## University Coursework Archive ##
